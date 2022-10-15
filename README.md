@@ -1,2 +1,10 @@
-# Modern-Android-Development-Summary
-인프런 모던 아키텍처 강좌 정리
+- 강좌 소개
+
+- 안드로이드 라이브러리를 학습하는 가장 좋은 방법은 공식 문서를 보는 것
+	- 그러나 설명이 복잡한 경우도 많고 업뎃이 빠르게 되지 않는 경우도 있다
+	- 그래서 강의를 만듬
+	- Jetpack을 공부해보자
+	- Jetpack 과 AAC, 카카오 API를 이용한 책검색 앱을 만들 것이다
+
+- 이러한 최신 기술을 사용한 개발을 Modern Android Development 라고 한다
+	- MAD 스킬을 보유한 개발자가 되자
